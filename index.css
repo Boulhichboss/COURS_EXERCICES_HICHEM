@@ -4,23 +4,21 @@
     margin:10px;
     font-size: 100% !important;
 } 
+header{
+
+	background:#69615f;
 
 }
+}
 h1{
+text-transform: uppercase;
 font-variant: small-caps;
 font-family: Arial, "Times New Roman", serif;
 font-size: 250%;
 font-weight: bold;
 color:#ffffff;
 }
-header{
 
-	background:#69615f;
-	text-align:center;
-	background-size: cover;
-    padding:15px;
-
-}
 nav{
     background-color: #b96565;
     display: inline-block;
