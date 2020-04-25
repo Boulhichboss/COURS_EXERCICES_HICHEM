@@ -23,9 +23,11 @@ header{
 }
 nav{
     background-color: #b96565;
+    display: inline-block;
 }
 ul{
     list-style: none;
+    display: inline-block;
 }
 a{
     text-align: center;
