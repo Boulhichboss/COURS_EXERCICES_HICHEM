@@ -1,0 +1,43 @@
+
+ body{
+    padding:15px;
+    margin:10px;
+    font-size: 100% !important;
+} 
+
+}
+h1{
+font-variant: small-caps;
+font-family: Arial, "Times New Roman", serif;
+font-size: 250%;
+font-weight: bold;
+color:#ffffff;
+}
+header{
+
+	background:#69615f;
+	text-align:center;
+	background-size: cover;
+    padding:15px;
+
+}
+nav{
+    background-color: #b96565;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    background-color: #adbedd;
+    color: #080808;
+    padding: 15px 25px;
+  display: inline-block;
+  
+ }
+ a:hover
+ {
+     background-color: aqua;
+ }
